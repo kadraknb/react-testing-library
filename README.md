@@ -1,9 +1,4 @@
-# Boas-vindas ao repositório do tryunfo!
-
-<details>
-  <summary><strong>O que foi desenvolvido</strong></summary>
-  
-# Boas-vindas ao repositório do tryunfo!
+# Boas-vindas ao repositório do react-testing-library!
 
 <details>
   <summary><strong>O que foi desenvolvido</strong></summary>
@@ -34,51 +29,6 @@ Testar inputs.
 - Jest
 - React
 - React Testing Library
-
-## 🚀 Instalação e execução
-
-1. Faça um clone desse repositório;
-2. Entre na pasta rodando `cd tryunfo`;
-3. Rode `npm install` para instalar as dependências;
-4. Rode `npm start` para iniciar.
-
-## 📪 Contato
-
-- Email: [vagner_cardoso_s@outlook.com](vagner_cardoso_s@outlook.com)
-- GitHub: [kadraknb](https://github.com/kadraknb)
-- LinkedIn: [vagner-cardos-santos](https://www.linkedin.com/in/vagner-cardos-santos/)
-
-<br />
-</details>
-<details>
-  <summary><strong>HABILIDADES</strong></summary>
-
-Ler o estado de um componente e usá-lo para alterar o que exibimos no browser
-
-Inicializar um componente, dando a ele um estado pré-definido
-
-Atualizar o estado de um componente
-
-Capturar eventos utilizando a sintaxe do React
-
-Criar formulários utilizando sintaxe JSX com as tags: input, textarea, select, form, checkbox
-
-Transmitir informações de componentes filhos para componentes pais via callbacks
-
-<br />
-</details>
-
-## 🛠 Tecnologias
-
-- JavaScript
-- React
-
-## 🚀 Instalação e execução
-
-1. Faça um clone desse repositório;
-2. Entre na pasta rodando `cd tryunfo`;
-3. Rode `npm install` para instalar as dependências;
-4. Rode `npm start` para iniciar.
 
 ## 📪 Contato
 
